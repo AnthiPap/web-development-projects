@@ -5,3 +5,4 @@ Projects completed during Udemy's Web Development Bootcamp:
   2. An *HTML5 and CSS* personal website.
   3. A *Bootstrap 4.4.1, HTML5, and CSS* TinDog website.
   4. A dice game site, using *Javascript and DOM manipulation*.
+  5. A drum kit site, using *Advanced Javascript and DOM manipulation*.
