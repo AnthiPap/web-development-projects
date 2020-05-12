@@ -7,3 +7,4 @@ Projects completed during Udemy's Web Development Bootcamp:
   4. A dice game site, using *intermediate Javascript and DOM manipulation*.
   5. A drum kit site, using *advanced Javascript and DOM manipulation*.
   6. A simon game, using *jQuery*.
+  7. A simple newsletter sign up page, using *Node.js* and *Mailchimp's API*, deployed with *Heroku*.
