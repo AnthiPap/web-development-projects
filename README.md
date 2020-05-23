@@ -16,7 +16,8 @@ Projects completed during Udemy's Web Development Bootcamp:
   7. A simple newsletter sign up page, using *Node.js* and *Mailchimp's API*, deployed with *Heroku*.
   8. A to-do list web app, using *Express, EJS, Mongoose and MongoDB*, deployed with *Heroku*.
   9. A blog/journal site, using *Express, EJS, Mongoose and MongoDB*, deployed with *Heroku*.
+  10. A secrets page encorporating *cookies and sessions*, as well as *OAuth 2.0*.
   
   Backend:
 
-  10. An example of a *RESTful API*.
+  11. An example of a *RESTful API*.
