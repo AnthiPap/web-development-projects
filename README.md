@@ -25,4 +25,4 @@ Projects completed during Udemy's Web Development Bootcamp:
   Frontend with React:
 
   12. A to-do app build with *React*, deployed with *Heroku*.
-  13. A note appbuild with *React*, deployed with *Heroku*.
+  13. A note appbuild with *React* .
