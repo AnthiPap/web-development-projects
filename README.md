@@ -21,3 +21,7 @@ Projects completed during Udemy's Web Development Bootcamp:
   Backend:
 
   11. An example of a *RESTful API*.
+
+  React:
+
+  12. A to-do list build with *React*, deployed with *Heroku*.
