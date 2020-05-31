@@ -24,4 +24,5 @@ Projects completed during Udemy's Web Development Bootcamp:
 
   React:
 
-  12. A to-do list build with *React*, deployed with *Heroku*.
+  12. A to-do app build with *React*, deployed with *Heroku*.
+  13. A note appbuild with *React*, deployed with *Heroku*.
